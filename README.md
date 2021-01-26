@@ -1,6 +1,6 @@
 # Snake-Game
 
-Try to get as much food as you can before you die
+Try to get the biggest snake by eating as much food as you can without dying
 
 Technology invovled: python
 
